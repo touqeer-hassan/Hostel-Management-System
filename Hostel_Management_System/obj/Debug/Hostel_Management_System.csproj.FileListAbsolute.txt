@@ -1,0 +1,12 @@
+H:\4th Semester\OOP\Task\Hostel_Management_System\Hostel_Management_System\bin\Debug\Hostel_Management_System.exe.config
+H:\4th Semester\OOP\Task\Hostel_Management_System\Hostel_Management_System\bin\Debug\Hostel_Management_System.exe
+H:\4th Semester\OOP\Task\Hostel_Management_System\Hostel_Management_System\bin\Debug\Hostel_Management_System.pdb
+H:\4th Semester\OOP\Task\Hostel_Management_System\Hostel_Management_System\obj\Debug\Hostel_Management_System.csprojResolveAssemblyReference.cache
+H:\4th Semester\OOP\Task\Hostel_Management_System\Hostel_Management_System\obj\Debug\Hostel_Management_System.frmWelcome.resources
+H:\4th Semester\OOP\Task\Hostel_Management_System\Hostel_Management_System\obj\Debug\Hostel_Management_System.Properties.Resources.resources
+H:\4th Semester\OOP\Task\Hostel_Management_System\Hostel_Management_System\obj\Debug\Hostel_Management_System.csproj.GenerateResource.Cache
+H:\4th Semester\OOP\Task\Hostel_Management_System\Hostel_Management_System\obj\Debug\Hostel_Management_System.exe
+H:\4th Semester\OOP\Task\Hostel_Management_System\Hostel_Management_System\obj\Debug\Hostel_Management_System.pdb
+H:\4th Semester\OOP\Task\Hostel_Management_System\Hostel_Management_System\obj\Debug\Hostel_Management_System.Main_Page.resources
+H:\4th Semester\OOP\Task\Hostel_Management_System\Hostel_Management_System\obj\Debug\Hostel_Management_System.frmStudentRecord.resources
+H:\4th Semester\OOP\Task\Hostel_Management_System\Hostel_Management_System\obj\Debug\Hostel_Management_System.frmAddaStudent.resources
